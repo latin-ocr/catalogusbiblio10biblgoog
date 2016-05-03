@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogusbiblio10biblgoog_0060.png"; bbox 0 0 4326 5708; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 364 1929 1742 2082">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 364 1929 1742 2082">
+     <span class='ocr_line' id='line_1_1' title="bbox 364 1929 1742 2082; baseline -0.001 -34"><span class='ocrx_word' id='word_1_1' title='bbox 364 1929 1742 2082; x_wconf 68' lang='lat' dir='ltr'><strong>CONTINUATIOOATALOGI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 570 2239 1509 2367">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 570 2239 1509 2367">
+     <span class='ocr_line' id='line_1_2' title="bbox 570 2239 1509 2367; baseline 0.002 -29"><span class='ocrx_word' id='word_1_2' title='bbox 570 2240 974 2338; x_wconf 82' lang='lat' dir='ltr'>LIBRORUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1023 2239 1509 2367; x_wconf 76' lang='lat' dir='ltr'>LATmoRuM,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 457 2483 1625 2605">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 457 2483 1625 2605">
+     <span class='ocr_line' id='line_1_3' title="bbox 457 2483 1625 2605; baseline 0.003 -4"><span class='ocrx_word' id='word_1_4' title='bbox 457 2483 1625 2605; x_wconf 74' lang='lat' dir='ltr'><strong>PR1M1sAEclJmTYPooRAPchl.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 679 2799 1391 3047">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 679 2799 1391 3047">
+     <span class='ocr_line' id='line_1_4' title="bbox 976 2799 1104 2859; baseline 0 -18"><span class='ocrx_word' id='word_1_5' title='bbox 976 2799 1104 2859; x_wconf 68' lang='lat' dir='ltr'><strong>muz</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 679 2976 1391 3047; baseline 0.001 -1"><span class='ocrx_word' id='word_1_6' title='bbox 679 2981 759 3046; x_wconf 77' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 794 2976 1020 3045; x_wconf 79' lang='lat' dir='ltr'>ANNUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1057 2979 1391 3047; x_wconf 59' lang='lat' dir='ltr'>lum-XXXVI„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 808 3184 1268 3253">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 808 3184 1268 3253">
+     <span class='ocr_line' id='line_1_6' title="bbox 808 3184 1268 3253; baseline 0.007 -8"><span class='ocrx_word' id='word_1_9' title='bbox 808 3184 898 3247; x_wconf 80' lang='lat' dir='ltr'><strong>CUM</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 916 3185 1064 3253; x_wconf 75' lang='lat' dir='ltr'><strong>mmcss</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1082 3185 1268 3248; x_wconf 71' lang='lat' dir='ltr'><strong>mmm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2168 5708">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2168 5708">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 2168 5708; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2168 5708; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
